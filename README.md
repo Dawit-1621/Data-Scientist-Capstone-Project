@@ -1,4 +1,4 @@
-# Data-Scientist-Capstone-Project
+# Data Scientist Capstone Project
 ## Installation
 **Importing Libraries**</br>
 * numpy
